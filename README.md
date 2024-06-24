@@ -89,15 +89,15 @@ Future work can focus on:
    ```sh
    git clone https://github.com/yourusername/COVID19-DataMining.git
 
-# Navigate to the project directory:
+## Navigate to the project directory:
 ```sh
 cd COVID19-DataMining
 ```
-# Install the required dependencies:
+## Install the required dependencies:
 ```sh
 pip install -r requirements.txt
 ```
-# Run the Jupyter notebook:
+## Run the Jupyter notebook:
 ```sh
 jupyter notebook CovidDataMining_Project.ipynb
 ```
