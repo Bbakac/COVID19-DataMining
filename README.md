@@ -101,3 +101,8 @@ pip install -r requirements.txt
 ```sh
 jupyter notebook CovidDataMining_Project.ipynb
 ```
+## Dataset from kaggle:
+https://www.kaggle.com/datasets/meirnizri/covid19-dataset
+```sh
+https://www.kaggle.com/datasets/meirnizri/covid19-dataset
+```
